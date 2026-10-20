@@ -8,6 +8,8 @@ p {
     font-size: 40px;
     font-style: oblique;
     text-align: center;
+    :hover{
+    color: blue;
 }
 img {
     width: 500px;
